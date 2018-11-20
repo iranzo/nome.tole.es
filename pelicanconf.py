@@ -86,6 +86,29 @@ USE_FOLDER_AS_CATEGORY = False
 
 SEARCH_BOX = False
 
+
+# URL Settings to be compatible with octopress
+ARTICLE_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+
+ARTICLE_LANG_URL = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}-{lang}/'
+ARTICLE_LANG_SAVE_AS = 'blog/{date:%Y}/{date:%m}/{date:%d}/{slug}-{lang}/index.html'
+
+YEAR_ARCHIVE_URL = 'blog/archive/{date:%Y}/'
+YEAR_ARCHIVE_SAVE_AS = 'blog/archive/{date:%Y}/index.html'
+
+MONTH_ARCHIVE_URL = 'blog/archive/{date:%Y}/{date:%m}/'
+MONTH_ARCHIVE_SAVE_AS = 'blog/archive/{date:%Y}/{date:%m}/index.html'
+
+CATEGORY_URL = 'blog/category/{slug}/'
+CATEGORY_SAVE_AS = 'blog/category/{slug}/index.html'
+
+TAG_URL = 'blog/tag/{slug}/'
+TAG_SAVE_AS = 'blog/tag/{slug}/index.html'
+
+PAGE_URL = '{slug}/'
+PAGE_SAVE_AS = '{slug}/index.html'
+
 AUTHOR_SAVE_AS = ''
 AUTHORS_SAVE_AS = ''
 
@@ -111,6 +134,7 @@ PAGINATION_PATTERNS = (
     (1, '{base_name}/', '{base_name}/index.html'),
     (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
+
 
 # Uncomment following line if you want document-relative URLs when developing
 RELATIVE_URLS = True
