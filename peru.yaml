@@ -1,0 +1,32 @@
+imports:
+    # The dircolors file just goes at the root of our project.
+    sitemap: plugins/
+    better_codeblock_line_numbering: plugins/
+    better_figures_and_images: plugins/
+    yuicompressor: plugins/
+    flex: themes/
+    i18n_subsites: plugins/
+
+git module sitemap:
+    url: git@github.com:getpelican/pelican-plugins.git
+    pick: sitemap
+
+git module yuicompressor:
+    url: git@github.com:getpelican/pelican-plugins.git
+    pick: yuicompressor
+
+git module better_figures_and_images:
+    url: git@github.com:getpelican/pelican-plugins.git
+    pick: better_figures_and_images
+
+git module better_codeblock_line_numbering:
+    url: git@github.com:getpelican/pelican-plugins.git
+    pick: better_codeblock_line_numbering
+
+git module i18n_subsites:
+    url: git@github.com:getpelican/pelican-plugins.git
+    pick: i18n_subsites
+
+git module flex:
+    url: https://github.com/getpelican/pelican-themes.git
+    pick: Flex

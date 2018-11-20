@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+
+Sitemap: https://nome.tole.es/sitemap.xml
+
