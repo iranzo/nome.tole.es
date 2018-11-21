@@ -5,7 +5,7 @@ import datetime
 
 AUTHOR = u'Madres desatadas'
 SITENAME = u"No me tole.es"
-SITESUBTITLE = u'Consejos para la vida'
+SITESUBTITLE = u'Consejos para la vida en familia'
 SITEURL = u'/'
 TWITTER_USERNAME = ""
 # https://github.com/alexandrevicenzi/Flex/wiki/Custom-Settings
@@ -22,20 +22,20 @@ WITH_FUTURE_DATES = False
 RSS_FEED_SUMMARY_ONLY = False
 
 # Default theme language.
-I18N_TEMPLATES_LANG = 'es'
+# I18N_TEMPLATES_LANG = 'es'
 
 DEFAULT_LANG = 'es'
 OG_LOCALE = 'es_ES'
 LOCALE = 'es_ES'
 
-I18N_SUBSITES = {
-    'es': {
-        'SITENAME': 'No me tole.ES',
-        }
-    }
+# I18N_SUBSITES = {
+#     'es': {
+#         'SITENAME': 'No me tole.ES',
+#         }
+#     }
 
 
-DEFAULT_CATEGORY = 'vida'
+DEFAULT_CATEGORY = 'blog'
 
 # Feed generation is usually not desired when developing
 
@@ -119,8 +119,8 @@ TAG_SAVE_AS = 'blog/tag/{slug}/index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = '{slug}/index.html'
 
-AUTHOR_SAVE_AS = ''
-AUTHORS_SAVE_AS = ''
+AUTHOR_SAVE_AS = 'blog/author/{slug}/'
+AUTHORS_SAVE_AS = 'blog/authors/{slug}/'
 
 ARCHIVES_URL = 'blog/archives/'
 ARCHIVES_SAVE_AS = 'blog/archives/index.html'

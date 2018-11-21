@@ -12,7 +12,7 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=tole.es
+SSH_HOST=nome.tole.es
 SSH_PORT=22
 SSH_USER=tolees
 SSH_TARGET_DIR=/nome.tole.es/
