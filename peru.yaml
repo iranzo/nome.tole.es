@@ -6,6 +6,7 @@ imports:
     yuicompressor: plugins/
     flex: themes/
     i18n_subsites: plugins/
+    representative_image: plugins/
 
 git module sitemap:
     url: git@github.com:getpelican/pelican-plugins.git
@@ -30,3 +31,7 @@ git module i18n_subsites:
 git module flex:
     url: https://github.com/getpelican/pelican-themes.git
     pick: Flex
+
+git module representative_image:
+    url: git@github.com:getpelican/pelican-plugins.git
+    pick: representative_image

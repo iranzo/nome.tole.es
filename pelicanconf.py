@@ -28,6 +28,13 @@ DEFAULT_LANG = 'es'
 OG_LOCALE = 'es_ES'
 LOCALE = 'es_ES'
 
+I18N_SUBSITES = {
+    'es': {
+        'SITENAME': 'No me tole.ES',
+        }
+    }
+
+
 DEFAULT_CATEGORY = 'vida'
 
 # Feed generation is usually not desired when developing
@@ -70,13 +77,16 @@ PLUGINS = [
     'better_figures_and_images',
     'sitemap',
     # 'yuicompressor',
-    'i18n_subsites'
+    'i18n_subsites',
+    "representative_image",
 ]
 
 # Enable i18n plugin, probably you already have some others here.
 # PLUGINS = ['i18n_subsites']
 # Enable Jinja2 i18n extension used to parse translations.
-JINJA_EXTENSIONS = ['jinja2.ext.i18n']
+JINJA_ENVIRONMENT = {
+    'extensions': ['jinja2.ext.i18n'],
+}
 
 FAVICON = 'extra/favicon.ico'
 THEME = 'themes/Flex'
@@ -125,6 +135,7 @@ DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'archives']
 
 LINKS = ()
 
+# SOCIAL = (('telegram', 'https://t.me/nometolees'),)
 SOCIAL = ()
 
 DEFAULT_PAGINATION = 5
