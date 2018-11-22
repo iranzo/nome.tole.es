@@ -7,6 +7,7 @@ imports:
     flex: themes/
     i18n_subsites: plugins/
     representative_image: plugins/
+    related_posts: plugins/
 
 git module sitemap:
     url: git@github.com:getpelican/pelican-plugins.git
@@ -35,3 +36,7 @@ git module flex:
 git module representative_image:
     url: git@github.com:getpelican/pelican-plugins.git
     pick: representative_image
+
+git module related_posts:
+    url: git@github.com:getpelican/pelican-plugins.git
+    pick: related_posts

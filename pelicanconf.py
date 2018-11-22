@@ -3,9 +3,9 @@ from __future__ import unicode_literals
 
 import datetime
 
-AUTHOR = u'Madres desatadas'
-SITENAME = u"No me tole.es"
-SITESUBTITLE = u'Consejos para la vida en familia'
+AUTHOR = u'No me tolees'
+SITENAME = u"¿Este niño no tiene manual?"
+SITESUBTITLE = u'Consejos para lidiar con ellos (y no morir en el intento)'
 SITEURL = u'/'
 TWITTER_USERNAME = ""
 # https://github.com/alexandrevicenzi/Flex/wiki/Custom-Settings
@@ -22,7 +22,7 @@ WITH_FUTURE_DATES = False
 RSS_FEED_SUMMARY_ONLY = False
 
 # Default theme language.
-# I18N_TEMPLATES_LANG = 'es'
+I18N_TEMPLATES_LANG = 'es'
 
 DEFAULT_LANG = 'es'
 OG_LOCALE = 'es_ES'
@@ -79,6 +79,7 @@ PLUGINS = [
     # 'yuicompressor',
     'i18n_subsites',
     "representative_image",
+    "related_posts",
 ]
 
 # Enable i18n plugin, probably you already have some others here.
