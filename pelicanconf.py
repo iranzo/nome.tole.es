@@ -134,7 +134,7 @@ TAGS_SAVE_AS = 'blog/tags/index.html'
 
 DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'archives']
 
-LINKS = ()
+LINKS = (('Bebés en amazon', 'https://amzn.to/2DPMZEH'),)
 
 # SOCIAL = (('telegram', 'https://t.me/nometolees'),)
 SOCIAL = ()
