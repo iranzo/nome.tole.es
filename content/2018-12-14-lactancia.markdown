@@ -37,9 +37,9 @@ Hay diversos factores que pueden afectar a la facilidad para la misma:
 - posición del bebé (existen diversas formas de cogerlo para la misma que es conveniente probar para ver cúal es la más apropiada en nuestro caso)
 - buen descanso de la madre
 
-También, influye el niño, algunos nacen más `fuertes` y otros algo más `debiles`, y al principio, deben hacer mucha fuerza para poder extraer el `calostro`[^calostro] y posteriormente, la leche.
+También, influye el niño, algunos nacen más `fuertes` y otros algo más `débiles`, y al principio, deben hacer mucha fuerza para poder extraer el `calostro`[^calostro] y posteriormente, la leche.
 
-[^calostro]: Liquido amarillento que secreta el pecho los primeros días, compuesto en su mayoría por `defensas`.
+[^calostro]: Líquido amarillento que secreta el pecho los primeros días, compuesto en su mayoría por `defensas`.
 
 Aunque es tan respetable dar el pecho como usar leche de fórmula, se ve una tendencia a criminalizar a quien da el biberón sin saber el porqué de dicha opción, si bien determinada por decisión, o bien determinada por las circunstancias.
 
