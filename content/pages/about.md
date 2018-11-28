@@ -1,9 +1,10 @@
 ---
+lang: es
 title: Acerca de
 layout: post
 date: 2016-06-02 17:27:47 +0200
 comments: true
-tags:
+tags: tolees
 description:
 ---
 

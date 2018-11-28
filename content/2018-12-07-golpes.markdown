@@ -1,4 +1,5 @@
 ---
+lang: es
 title: Cómo reaccionar a la violencia de nuestro hijo
 layout: post
 date: 2017-12-07 7:20:47 +0200
