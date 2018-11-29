@@ -11,7 +11,7 @@ author:
 ---
 
 **Índice**
-<!-- TOC depthFrom:1 insertAnchor:false orderedList:true -->
+<!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
 
 - [¿Qué son?](#%C2%BFqu%C3%A9-son)
 - [¿Cómo las evitamos?](#%C2%BFc%C3%B3mo-las-evitamos)
@@ -20,6 +20,7 @@ author:
 
 <!-- /TOC -->
 
+<a id="markdown-¿qué-son" name="¿qué-son"></a>
 ## ¿Qué son?
 
 Las rabietas son por todos conocidas... la típica imagen es un niño en el suelo llorando y gritando, haciendo aspavientos y dando patadas y golpes con sus extremidades a consecuencia de algo que no tenemos claro cómo ha ocurrido la mayoría de veces.
@@ -28,6 +29,7 @@ Las rabietas son parte normal del desarrollo del niño, si no estuvieran es que 
 
 Según el desarrollo del niño comienzan a aparecer alrededor de los dos años y tienen su punto álgido alrededor de `"los terribles tres"`.
 
+<a id="markdown-¿cómo-las-evitamos" name="¿cómo-las-evitamos"></a>
 ## ¿Cómo las evitamos?
 
 De la forma más simple: no llegando a ellas:
@@ -36,6 +38,7 @@ De la forma más simple: no llegando a ellas:
 - si por la mañana prefiere una taza u otra de desayuno, darle a escoger
 
 
+<a id="markdown-¿y-cuando-han-llegado" name="¿y-cuando-han-llegado"></a>
 ## ¿Y cuando han llegado?
 
 Si la rabieta ya ha comenzado, sólo queda esperar a que pase de la mejor forma posible:
@@ -50,6 +53,7 @@ Aunque suena fácil, es duro, muy duro y por desgracia es una época dura, que o
 
 Con perseverancia y mucha paciencia durante las rabietas podemos llegar al momento 'post'
 
+<a id="markdown-la-tormenta-ha-pasado-¿y-ahora" name="la-tormenta-ha-pasado-¿y-ahora"></a>
 ## La tormenta ha pasado... ¿y ahora?
 
 Cuando la situación ha pasado, es conveniente hablar con el niño de lo que ha pasado, en tono tranquilo, para que explique lo ocurrido desde su punto de vista, pero tampoco sin 'recrearnos', el niño debe aprender que las rabietas, golpes no son la forma de expresarse.
