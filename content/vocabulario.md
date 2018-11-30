@@ -2,7 +2,7 @@
 lang: es
 title: Vocabulario
 layout: post
-date: 2018-12-29 21:32:47 +0200
+date: 2018-11-29 21:32:47 +0200
 comments: true
 tags: vocabulario, glosario
 description:
@@ -12,35 +12,42 @@ author:
 **Índice**
 <!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
 
-1. [A](#a)
-2. [B](#b)
-3. [C](#c)
-4. [D](#d)
-5. [E](#e)
-6. [F](#f)
-7. [G](#g)
-8. [H](#h)
-9. [I](#i)
-10. [J](#j)
-11. [K](#k)
-12. [L](#l)
-13. [M](#m)
-14. [N](#n)
-15. [O](#o)
-16. [P](#p)
-17. [Q](#q)
-18. [R](#r)
-19. [S](#s)
-20. [T](#t)
-21. [U](#u)
-22. [V](#v)
-23. [W](#w)
-24. [X](#x)
-25. [Y](#y)
-26. [Z](#z)
-27. [1-9](#1-9)
+1. [Descripción](#descripción)
+2. [A](#a)
+3. [B](#b)
+4. [C](#c)
+5. [D](#d)
+6. [E](#e)
+7. [F](#f)
+8. [G](#g)
+9. [H](#h)
+10. [I](#i)
+11. [J](#j)
+12. [K](#k)
+13. [L](#l)
+14. [M](#m)
+15. [N](#n)
+16. [O](#o)
+17. [P](#p)
+18. [Q](#q)
+19. [R](#r)
+20. [S](#s)
+21. [T](#t)
+22. [U](#u)
+23. [V](#v)
+24. [W](#w)
+25. [X](#x)
+26. [Y](#y)
+27. [Z](#z)
+28. [1-9](#1-9)
 
 <!-- /TOC -->
+
+<a id="markdown-descripción" name="descripción"></a>
+# Descripción
+Aquí iremos actualizando un pequeño diccionario de palabras relacionadas con los bebés, el embarazo, la crianza, etc para que te sea útil.
+
+Visítalo de vez en cuando para ver las novedades!
 
 <a id="markdown-a" name="a"></a>
 #A
