@@ -9,14 +9,7 @@ description:
 category:
 author:
 ---
-**Índice**
-<!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
 
-- [El cordón umbilical o el ombligo](#el-cord%C3%B3n-umbilical-o-el-ombligo)
-
-<!-- /TOC -->
-
-<a id="markdown-el-cordón-umbilical-o-el-ombligo" name="el-cordón-umbilical-o-el-ombligo"></a>
 ## El cordón umbilical o el ombligo
 
 En caso de todavía tener el cordón umbilical, vuestro pediatra os informará el procedimiento preferido, algunos recomiendan usar cristalmina o alcohol de 70º empapando un papel y sólo tocando el cordón, nunca la piel, y tan sólo, una vez evaporado, proceder a poner el pañal.

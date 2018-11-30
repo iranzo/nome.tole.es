@@ -9,14 +9,6 @@ description:
 category:
 author:
 ---
-**Índice**
-<!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
-
-- [Baño](#ba%C3%B1o)
-
-<!-- /TOC -->
-
-<a id="markdown-baño" name="baño"></a>
 ## Baño
 
 El baño del bebé suele ser unos dias tras el parto, para darle tiempo a que absorva el `vermix` que es esa capa que protege al bebé y le ayuda a regular la temperatura.

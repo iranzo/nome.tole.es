@@ -10,14 +10,6 @@ category:
 author:
 ---
 
-**Índice**
-<!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
-
-- [Contracciones](#contracciones)
-
-<!-- /TOC -->
-
-<a id="markdown-contracciones" name="contracciones"></a>
 # Contracciones
 Las contracciones son movimientos del útero (recordemos que es un músculo) que duran entre 30 y 60 segundos y son intermitentes.
 
