@@ -2,13 +2,12 @@
 lang: es
 title: El baño
 layout: post
-date: 2018-12-21 19:22:47 +0200
+date: 2018-11-30 23:07:47 +0200
 comments: true
-tags: parto, hospital
+tags: baño, cuidados
 description:
 category:
 author:
-draft: true
 ---
 **Índice**
 <!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
@@ -17,21 +16,25 @@ draft: true
 
 <!-- /TOC -->
 
-
 <a id="markdown-baño" name="baño"></a>
 ## Baño
-1er baño tras 5-7 días para no eliminar el vermix, que regula temperatura y protege
-Hay que asociarlo a momento de relax, no de higiene: 
-bajar iluminación
-temperatura adecuada agua
-calefactor si es necesario
-tener todo preparado
-Habitación a 22ºC, 37 ºC de temperatura del agua, echando siempre primero agua fría y luego la caliente (para evitar que por un descuido, se ponga agua caliente y al despistarnos, le escalde)
-Altura de agua que cubra muslos hasta altura cintura
-Coger con una mano con dedo entre pies, los dos pies.
-Bañar de arriba a abajo
-Con la otra mano, coger de la axila más alejada por detrás de cabeza con el brazo.
-Lavar primero con la mano o con esponja natural
-No usar polvos de talco
-Si el cordón es gordo, usar Cristalmina o Alcohol de 70º sin tocar la piel, sólo el cordón y una vez esté seco/evaporado, poner el pañal
-Repetir 3 veces al día
+
+El baño del bebé suele ser unos dias tras el parto, para darle tiempo a que absorva el `vermix` que es esa capa que protege al bebé y le ayuda a regular la temperatura.
+
+El baño debe ser un momento de relax:
+- bajar la iluminación si es posible
+- agua a 37ºC para que el niño no pase calor ni frío
+- ambiente caldeado si es necesario (22ºC)
+- tener todo preparado de antemano (jabón, agua en la bañera, toallas, etc)
+
+El proceso de baño debe asegurar que el bebé no esté mal ni corra peligro, es por ello que se recomienda siempre llenar la bañera con agua fría (evitando así que por un descuido se pusiera en agua caliente) y luego, ir añadiendo agua caliente hasta templarla.
+
+El nivel del agua debe cubrir los muslos hasta la cintura.
+
+El procedimiento para bañarlo consiste en coger con una mano, poniendo un dedo entre sus pies ambos a la vez, estando la otra mano cogiéndolo desde la axila más alejada, pasando por detrás de la cabeza con el brazo, para que así quede cogido correctamente.
+
+Se debe bañar de arriba hacia abajo, siendo los primeros baños siempre o bien con la mano o bien con una esponja natural.
+
+Hoy en día no se recomienda el uso de polvos de talco.
+
+Echa un vistazo a la información sobre el [Cordón umbilical](cordon.md)

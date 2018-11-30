@@ -65,6 +65,7 @@ Visítalo de vez en cuando para ver las novedades!
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Calostro      | Secreción amarillenta formada principalmente por inmunoglobulina que sale del pecho en los dias alrededor del parto y proporciona `defensas` al bebé |
 | [Contracciones](contracciones.md) | Las contracciones son movimientos del útero (recordemos que es un músculo) que duran entre 30 y 60 segundos y son intermitentes                      |
+|[Cordón umbilical](cordon.md) | Es el 'tubo' que conecta al bebé con la placenta y del cual conserva un trozo al nacer hasta que se seca y se cae por sí mismo.|
 
 <a id="markdown-d" name="d"></a>
 #D
@@ -184,6 +185,7 @@ Visítalo de vez en cuando para ver las novedades!
 
 | Palabra  | Definición                                                                                                                                                   |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| vermix| Capa como de `grasa` que recubre al bebé al nacer y que le da protección y ayuda a regular la temperatura |
 
 
 <a id="markdown-w" name="w"></a>
