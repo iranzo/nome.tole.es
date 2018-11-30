@@ -2,13 +2,12 @@
 lang: es
 title: Vocabulario
 layout: post
-date: 2018-12-21 19:22:47 +0200
+date: 2018-12-29 21:32:47 +0200
 comments: true
 tags: vocabulario, glosario
 description:
 category:
 author:
-draft: true
 ---
 **Índice**
 <!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
@@ -55,9 +54,10 @@ draft: true
 
 <a id="markdown-c" name="c"></a>
 #C
-| Palabra  | Definición                                                                                                                                                   |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Calostro | Secreción amarillenta formada principalmente por inmunoglobulina que sale del pecho en los dias alrededor del parto y proporciona `defensas` al bebé         |
+| Palabra       | Definición                                                                                                                                           |
+|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Calostro      | Secreción amarillenta formada principalmente por inmunoglobulina que sale del pecho en los dias alrededor del parto y proporciona `defensas` al bebé |
+| Contracciones | Las contracciones son movimientos del útero (recordemos que es un músculo) que duran entre 30 y 60 segundos y son intermitentes                      |
 
 <a id="markdown-d" name="d"></a>
 #D
