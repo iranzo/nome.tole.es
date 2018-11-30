@@ -6,17 +6,17 @@ date: 2018-11-30 20:27:47 +0200
 comments: true
 tags: rabietas, crianza
 description:
-category:
+category: niño
 author:
 ---
 
 **Índice**
 <!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
 
-- [¿Qué son?](#%C2%BFqu%C3%A9-son)
-- [¿Cómo las evitamos?](#%C2%BFc%C3%B3mo-las-evitamos)
-- [¿Y cuando han llegado?](#%C2%BFy-cuando-han-llegado)
-- [La tormenta ha pasado... ¿y ahora?](#la-tormenta-ha-pasado-%C2%BFy-ahora)
+1. [¿Qué son?](#¿qué-son)
+2. [¿Cómo las evitamos?](#¿cómo-las-evitamos)
+3. [¿Y cuando han llegado?](#¿y-cuando-han-llegado)
+4. [La tormenta ha pasado... ¿y ahora?](#la-tormenta-ha-pasado-¿y-ahora)
 
 <!-- /TOC -->
 

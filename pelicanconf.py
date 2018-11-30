@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 import datetime
 
 AUTHOR = u'No me tolees'
-SITENAME = u"¿Este niño no tiene manual?"
-SITESUBTITLE = u'Consejos para lidiar con ellos (y no morir en el intento)'
+SITENAME = u"No me tolees!!"
+SITESUBTITLE = u'Consejos para lidiar con niños (y no morir en el intento)'
 SITEURL = u'/'
 TWITTER_USERNAME = ""
 # https://github.com/alexandrevicenzi/Flex/wiki/Custom-Settings
@@ -35,7 +35,7 @@ LOCALE = 'es_ES'
 #     }
 
 
-DEFAULT_CATEGORY = 'blog'
+DEFAULT_CATEGORY = 'general'
 
 # Feed generation is usually not desired when developing
 
@@ -90,7 +90,7 @@ JINJA_ENVIRONMENT = {
 }
 
 FAVICON = 'extra/favicon.ico'
-THEME = 'themes/blueidea'
+THEME = 'themes/chunk'
 
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
 USE_FOLDER_AS_CATEGORY = False

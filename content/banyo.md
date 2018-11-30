@@ -6,7 +6,7 @@ date: 2018-11-30 23:07:47 +0200
 comments: true
 tags: baño, cuidados
 description:
-category:
+category: bebe
 author:
 ---
 ## Baño
