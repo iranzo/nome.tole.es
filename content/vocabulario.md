@@ -156,6 +156,7 @@ Visítalo de vez en cuando para ver las novedades!
 
 | Palabra  | Definición                                                                                                                                                   |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Rabietas](las-rabietas.md)|Arrebatos generalmente bruscos y descontrolados de niño ante la frustración.|
 
 
 <a id="markdown-s" name="s"></a>

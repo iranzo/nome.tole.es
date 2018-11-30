@@ -57,4 +57,3 @@ Con perseverancia y mucha paciencia durante las rabietas podemos llegar al momen
 ## La tormenta ha pasado... ¿y ahora?
 
 Cuando la situación ha pasado, es conveniente hablar con el niño de lo que ha pasado, en tono tranquilo, para que explique lo ocurrido desde su punto de vista, pero tampoco sin 'recrearnos', el niño debe aprender que las rabietas, golpes no son la forma de expresarse.
-
