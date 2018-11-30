@@ -4,7 +4,7 @@ imports:
     better_codeblock_line_numbering: plugins/
     better_figures_and_images: plugins/
     yuicompressor: plugins/
-    flex: themes/
+    blueidea: themes/
     i18n_subsites: plugins/
     representative_image: plugins/
     related_posts: plugins/
@@ -40,3 +40,7 @@ git module representative_image:
 git module related_posts:
     url: git@github.com:getpelican/pelican-plugins.git
     pick: related_posts
+
+git module blueidea:
+    url: https://github.com/getpelican/pelican-themes.git
+    pick: blueidea

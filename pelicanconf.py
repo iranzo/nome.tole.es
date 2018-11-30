@@ -90,7 +90,7 @@ JINJA_ENVIRONMENT = {
 }
 
 FAVICON = 'extra/favicon.ico'
-THEME = 'themes/Flex'
+THEME = 'themes/blueidea'
 
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
 USE_FOLDER_AS_CATEGORY = False
