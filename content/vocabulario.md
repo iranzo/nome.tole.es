@@ -64,7 +64,7 @@ Visítalo de vez en cuando para ver las novedades!
 | Palabra       | Definición                                                                                                                                           |
 |---------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Calostro      | Secreción amarillenta formada principalmente por inmunoglobulina que sale del pecho en los dias alrededor del parto y proporciona `defensas` al bebé |
-| Contracciones | Las contracciones son movimientos del útero (recordemos que es un músculo) que duran entre 30 y 60 segundos y son intermitentes                      |
+| [Contracciones](contracciones.md) | Las contracciones son movimientos del útero (recordemos que es un músculo) que duran entre 30 y 60 segundos y son intermitentes                      |
 
 <a id="markdown-d" name="d"></a>
 #D
