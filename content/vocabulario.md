@@ -169,10 +169,9 @@ Visítalo de vez en cuando para ver las novedades!
 <a id="markdown-t" name="t"></a>
 #T
 
-| Palabra  | Definición                                                                                                                                                   |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-
-
+| Palabra      | Definición                                                                                                                             |
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| tapón mucoso | masa gelatinosa que cierra el paso de la vagina al útero protegiendo así al bebé durante la gestación de entradas de virus o bacterias |
 <a id="markdown-u" name="u"></a>
 #U
 

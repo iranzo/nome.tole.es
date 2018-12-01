@@ -8,8 +8,6 @@ SITENAME = u"No me tolees!!"
 SITESUBTITLE = u'Consejos para lidiar con niños (y no morir en el intento)'
 SITEURL = u'/'
 TWITTER_USERNAME = ""
-# https://github.com/alexandrevicenzi/Flex/wiki/Custom-Settings
-MAIN_MENU = False
 
 PATH = 'content'
 
@@ -56,13 +54,14 @@ STATIC_PATHS = [
     'imagen',
     'extra/robots.txt',
     'extra/favicon.ico',
-    'extra/google3bc953001343abe6'
+    'extra/google3bc953001343abe6',
+    'image',
 ]
 
 EXTRA_PATH_METADATA = {
     'extra/robots.txt': {'path': 'robots.txt'},
     'extra/favicon.ico': {'path': 'favicon.ico'},
-    'extra/google3bc953001343abe6' : {'path': 'google3bc953001343abe6.html'}
+    'extra/google3bc953001343abe6' : {'path': 'google3bc953001343abe6.html'},
 }
 
 CACHE_CONTENT = False
@@ -90,7 +89,7 @@ JINJA_ENVIRONMENT = {
 }
 
 FAVICON = 'extra/favicon.ico'
-THEME = 'themes/chunk'
+THEME = 'themes/nest'
 
 FILENAME_METADATA = '(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)'
 USE_FOLDER_AS_CATEGORY = False
@@ -201,3 +200,78 @@ MENU_INTERNAL_PAGES = (
 
 DISQUS_SITENAME = "nome-tole-es"
 DISQUS_DISPLAY_COUNTS = True
+
+
+# Minified CSS
+NEST_CSS_MINIFY = True
+# Add items to top menu before pages
+MENUITEMS = [('Inicio', '/'),('Categorías','/categories/')]
+# Add header background image from content/images : 'background.jpg'
+NEST_HEADER_IMAGES = ''
+NEST_HEADER_LOGO = '/image/logo.png'
+# Footer
+NEST_SITEMAP_COLUMN_TITLE = u'Sitemap'
+NEST_SITEMAP_MENU = [('Archives', '/archives.html'),('Tags','/tags.html'), ('Authors','/authors.html')]
+NEST_SITEMAP_ATOM_LINK = u'Atom Feed'
+NEST_SITEMAP_RSS_LINK = u'RSS Feed'
+NEST_SOCIAL_COLUMN_TITLE = u'Social'
+NEST_LINKS_COLUMN_TITLE = u'Links'
+NEST_COPYRIGHT = u'&copy; blogname 2015'
+# Footer optional
+NEST_FOOTER_HTML = ''
+# index.html
+NEST_INDEX_HEAD_TITLE = u'Inicio'
+NEST_INDEX_HEADER_TITLE = u'No me tolees!!'
+NEST_INDEX_HEADER_SUBTITLE = u"Consejos para lidiar con niños (y no morir en el intento)"
+NEST_INDEX_CONTENT_TITLE = u'Últimos artículos'
+# archives.html
+NEST_ARCHIVES_HEAD_TITLE = u'Archivo'
+NEST_ARCHIVES_HEAD_DESCRIPTION = u'Archivo de entradas'
+NEST_ARCHIVES_HEADER_TITLE = u'Archivo'
+NEST_ARCHIVES_HEADER_SUBTITLE = u'Archivos para todas las entradas'
+NEST_ARCHIVES_CONTENT_TITLE = u'Archivo'
+# article.html
+NEST_ARTICLE_HEADER_BY = u'Por'
+NEST_ARTICLE_HEADER_MODIFIED = u'modificado'
+NEST_ARTICLE_HEADER_IN = u'en la categoría'
+# author.html
+NEST_AUTHOR_HEAD_TITLE = u'Entradas de '
+NEST_AUTHOR_HEAD_DESCRIPTION = u'Entradas de'
+NEST_AUTHOR_HEADER_SUBTITLE = u'Archivo de entradas'
+NEST_AUTHOR_CONTENT_TITLE = u'Entradas'
+# authors.html
+NEST_AUTHORS_HEAD_TITLE = u'Lista de autores'
+NEST_AUTHORS_HEAD_DESCRIPTION = u'Lista de autores'
+NEST_AUTHORS_HEADER_TITLE = u'Lista de autores'
+NEST_AUTHORS_HEADER_SUBTITLE = u'Archivos por autor'
+# categories.html
+NEST_CATEGORIES_HEAD_TITLE = u'Categorías'
+NEST_CATEGORIES_HEAD_DESCRIPTION = u'Archivo por categoría'
+NEST_CATEGORIES_HEADER_TITLE = u'Categorías'
+NEST_CATEGORIES_HEADER_SUBTITLE = u'Archivo ordenado por categoría'
+# category.html
+NEST_CATEGORY_HEAD_TITLE = u'Archivo de categorías'
+NEST_CATEGORY_HEAD_DESCRIPTION = u'Archivo de categorías'
+NEST_CATEGORY_HEADER_TITLE = u'Categoría'
+NEST_CATEGORY_HEADER_SUBTITLE = u'Archivo de categorías'
+# pagination.html
+NEST_PAGINATION_PREVIOUS = u'Previo'
+NEST_PAGINATION_NEXT = u'Siguiente'
+# period_archives.html
+NEST_PERIOD_ARCHIVES_HEAD_TITLE = u'Archivo para'
+NEST_PERIOD_ARCHIVES_HEAD_DESCRIPTION = u'Archivo para'
+NEST_PERIOD_ARCHIVES_HEADER_TITLE = u'Archivo'
+NEST_PERIOD_ARCHIVES_HEADER_SUBTITLE = u'Archivo para'
+NEST_PERIOD_ARCHIVES_CONTENT_TITLE = u'Archivos para'
+# tag.html
+NEST_TAG_HEAD_TITLE = u'Archivo de etiquetas'
+NEST_TAG_HEAD_DESCRIPTION = u'Archivo de etiquetas'
+NEST_TAG_HEADER_TITLE = u'Etiqueta'
+NEST_TAG_HEADER_SUBTITLE = u'Archivo de etiquetas'
+# tags.html
+NEST_TAGS_HEAD_TITLE = u'Etiquetas'
+NEST_TAGS_HEAD_DESCRIPTION = u'Listado de etiquetas'
+NEST_TAGS_HEADER_TITLE = u'Etiquetas'
+NEST_TAGS_HEADER_SUBTITLE = u'Listado de etiquetas'
+NEST_TAGS_CONTENT_TITLE = u'Listado de etiquetas'
+NEST_TAGS_CONTENT_LIST = u'etiquetado'
