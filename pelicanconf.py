@@ -4,9 +4,8 @@ from __future__ import unicode_literals
 import datetime
 
 AUTHOR = u'No me tolees'
-# SITENAME = u"No me tolees!!"
-SITENAME =""
-# SITESUBTITLE = u'Consejos para lidiar con niños (y no morir en el intento)'
+SITENAME = u"No me tolees!!"
+SITESUBTITLE = u'Consejos para lidiar con niños (y no morir en el intento)'
 SITEURL = u'/'
 TWITTER_USERNAME = ""
 
