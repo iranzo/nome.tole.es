@@ -211,12 +211,12 @@ MENUITEMS = [('Inicio', '/'),('Categorías','/categories/'), ('Temas', '/tags/')
 NEST_HEADER_IMAGES = ''
 NEST_HEADER_LOGO = '/image/logo.png'
 # Footer
-NEST_SITEMAP_COLUMN_TITLE = u'Sitemap'
+NEST_SITEMAP_COLUMN_TITLE = u'Mapa del sitio'
 NEST_SITEMAP_MENU = [('Archivo', '/archives/'),('Etiquetas','/tags/')]
 NEST_SITEMAP_ATOM_LINK = u'Atom Feed'
 NEST_SITEMAP_RSS_LINK = u'RSS Feed'
 NEST_SOCIAL_COLUMN_TITLE = u'Social'
-NEST_LINKS_COLUMN_TITLE = u'Links'
+NEST_LINKS_COLUMN_TITLE = u'Enlaces'
 NEST_COPYRIGHT = u'&copy; No me tole.es 2018'
 # Footer optional
 NEST_FOOTER_HTML = ''
