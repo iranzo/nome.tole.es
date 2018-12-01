@@ -76,6 +76,8 @@ El proceso del parto se tratará en otro artículo :-) 'que da para rato'
 
 Todo ha ido bien, estáis en la habitación y tras el último control de pediatra y médicos se te va a dar el alta.
 
+Ten en cuenta que desde el momento del parto hasta el 'alta', el niño suele perder peso (unos 300gr) al deshincharse, pero por su salud, no se permite que pierdan más de un 10% durante la primera semana.
+
 El proceso de vuelta a casa, precedido o no por pasos como:
 - inscribir del acta de nacimiento del bebé (en el hospital)
 - obtención de la tarjeta sanitaria del bebé

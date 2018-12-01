@@ -2,23 +2,13 @@
 lang: es
 title: Cómo reaccionar a la violencia de nuestro hijo
 layout: post
-date: 2018-12-07 7:20:47 +0200
+date: 2018-12-01 21:15:47 +0200
 comments: true
 tags: crianza, golpes, arañar, morder
 description:
 category: niño
 author:
 ---
-
-**Índice**
-<!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
-
-- [Introducción](#introducci%C3%B3n)
-
-<!-- /TOC -->
-
-<a id="markdown-introducción" name="introducción"></a>
-## Introducción
 
 A veces los niños reaccionan de forma violenta, a veces, de casualidad y otras porque es lo que han visto.
 

@@ -2,9 +2,9 @@
 lang: es
 title: Lactancia
 layout: post
-date: 2018-12-14 17:32:47 +0200
+date: 2018-12-01 08:13:47 +0200
 comments: true
-tags: crianza, lactancia, doula
+tags: crianza, lactancia, doula, biberon
 description:
 category: bebe
 author:
@@ -20,7 +20,6 @@ author:
     - [Cantidad](#cantidad)
     - [Otros](#otros)
 - [Biberones](#biberones)
-- [Esterilizadores y otros accesorios](#esterilizadores-y-otros-accesorios)
 
 <!-- /TOC -->
 
@@ -59,7 +58,7 @@ El primer punto al que acudir es a nuestra matrona y posiblemente, a algún grup
 
 [^Doula]: Persona especializada en acompañar durante el proceso de la maternidad.
 
-[^gruposlactancia]: La principal prioridad es el bienestar de la madre. En nuestro caso, tuvimos problemas diversos: oxitocina sintética, tiempo hasta el piel con piel, falta de descanso, etc. Lo que no nos ayudó tampoco es el que al acudir al centro de salud, los grupos de lactancia estaban formados por gente que no tenía ningún problema con ella, que hasta podían extraer leche y conservarla o donarla y en los que el niño era capaz de extraerla con facilidad. Finalmente, acudimos a una `Doula` certificada y a la Unidad de Lactancia del Hospital Doctor Peset Aleixandre, que contaba con profesionales que nos ayudaron.
+[^gruposlactancia]: La principal prioridad es el bienestar de la madre. En nuestro caso, tuvimos problemas diversos: oxitocina sintética, tiempo hasta el piel con piel, falta de descanso, etc. Lo que no nos ayudó tampoco es el que al acudir al centro de salud, los grupos de lactancia estaban formados por gente que no tenía ningún problema con ella, que hasta podían extraer leche y conservarla o donarla y en los que el niño era capaz de extraerla con facilidad. Finalmente, acudimos a una `Doula` certificada y a la Unidad de Lactancia del Hospital Doctor Peset Aleixandre en Valencia, que contaba con profesionales que nos ayudaron.
 
 Esta persona de apoyo nos informará de formas convenientes de dar el pecho, revisará si el agarre es correcto (por ejemplo, revisando si el labio del bebé está `evertido`), etc
 
@@ -84,12 +83,12 @@ Al final, con mayor o menor perseverancia, la lactancia es una buena opción, un
 
 <a id="markdown-otros" name="otros"></a>
 ### Otros
-- Sólo tomar vitaminas post parto que sean especiales lactancia
-- Mantener la higiene de manos y considerar el uso de sujetador de lactancia y  cojín de lactancia para facilitar las tomas.
+- Sólo tomar vitaminas post parto que sean especiales para lactancia, ya que pueden excretarse por la leche y afectar al bebé.
+- Mantener la higiene de manos y considerar el uso de sujetador de lactancia y cojín de lactancia para facilitar las tomas.
 - El sabor de la leche *cambia* en función de lo que se come:
-    - En Sudamérica toman la panela que parece ser que ayuda por el sabor de la leche más dulce
     - No tomar picantes, no abusar o mejor no tomar café , bebidas con gas, chorizo, alcohol, drogas, etc
     - Alcachofas y comino inhiben lactancia y los espárragos cambian el sabor.
+    - En Sudamérica toman la panela que parece ser que ayuda por el sabor de la leche más dulce
 
 <a id="markdown-biberones" name="biberones"></a>
 ## Biberones
@@ -107,16 +106,6 @@ Sea cual sea la causa del uso del biberón, ya sea decisión propia, por problem
         -  Las de agujero más grande (Y o cruz) son para cuando toman cereales con la leche)
     - Las de latex son más blandas y parecidas a pecho.
     - Los de silicona (vs caucho), se agrietan cuando tienen dientes, pero no tienen olor, cambiarlos con más frecuencia.
-
-<a id="markdown-esterilizadores-y-otros-accesorios" name="esterilizadores-y-otros-accesorios"></a>
-## Esterilizadores y otros accesorios
-
-Todos los elementos que toque el bebé hay que esterilizarlos: chupetes, biberones, etc
-
-Esterilizadores, hay de varios tipos y siempre hay que mirar tamaños por los biberones porque para cada fabricante varían.
-
-El de vapor se considera el más seguro, aunque existen variantes para usar en microondas o bien esterilizadores por pastillas.
-
-Para frutas hay chupetes con rejilla que pueden tener fruta picada para que coja sabor sin el riesgo de que el niño ingiera trozos que todavía no sabe masticar (y generalmente no tiene dientes)
+    - Las tetinas naturales, no permiten el flujo libre de la leche y el bebé tiene que succionar como con un pecho para poder extraer la leche. Las más conocidas son las de [medela Calma](https://amzn.to/2DUrJh5).
 
 [^fasecrecimiento]: Al igual que en cada toma, cambia la consistencia de la leche (de más liquida para saciar sed a más espera para aportar más calorías, la leche también cambia durante el crecimiento del bebé)
