@@ -2,7 +2,7 @@
 lang: es
 title: El día de ir 2 y volver 3
 layout: post
-date: 2018-12-21 19:22:47 +0200
+date: 2018-12-01 07:32:47 +0200
 comments: true
 tags: parto, hospital, aguas, contracciones, tapon
 description:
@@ -22,7 +22,7 @@ author:
 
 <a id="markdown-romper-aguas" name="romper-aguas"></a>
 # Romper aguas
-Llevas dias con la maleta preparada, coche con gasolina, plan de parto listo, etc, pero hoy, estando en la cama vinieron ganas de ir al baño a orinar.
+Llevas días con la maleta preparada, coche con gasolina, plan de parto listo, etc, pero hoy, estando en la cama vinieron ganas de ir al baño a orinar.
 
 Al acabar, sigue cayendo líquido... has roto aguas!
 
@@ -37,14 +37,13 @@ La guía general para ir al hospital en base a las contracciones es **contraccio
 
 Con la cartilla del embarazo lista (que permite especificar el plan de parto) y con la tarjeta médica te harán el triage inicial y de ahí pasarás a la sección de revisión.
 
-
 Si has ido por contracciones, avisa en el mostrador que son **contracciones uterinas**.
 
 En ese primer control se mira la dilatación y si estás en fase activa[^activa], así como si has tenido contracciones y la frecuencia.
 
 El objetivo de estos primeros controles es revisar el estado de estrés del bebé.
 
-[^activa]: Se considera fase activa cuando hay 3-4 centímetros de dilatación
+[^activa]: Se considera fase activa cuando hay 3-4 centímetros de dilatación del cuello del útero.
 
 El proceso de parto se compone de varios pasos que pueden o no presentarse y no necesariamente en orden:
 
@@ -70,7 +69,7 @@ Según el momento, te pondrán 'monitores' para revisar estado del bebé, ya sea
 
 <a id="markdown-el-parto" name="el-parto"></a>
 # El parto
-El proceso del parto se tratará en [otro artículo](parto.markdown) :-) 'que da para rato'
+El proceso del parto se tratará en otro artículo :-) 'que da para rato'
 
 <a id="markdown-la-vuelta-a-casa" name="la-vuelta-a-casa"></a>
 # La vuelta a casa
@@ -78,8 +77,8 @@ El proceso del parto se tratará en [otro artículo](parto.markdown) :-) 'que da
 Todo ha ido bien, estáis en la habitación y tras el último control de pediatra y médicos se te va a dar el alta.
 
 El proceso de vuelta a casa, precedido o no por pasos como:
-- inscribir del acta de nacimiento del bebé
+- inscribir del acta de nacimiento del bebé (en el hospital)
 - obtención de la tarjeta sanitaria del bebé
-- inscripción en el libro de familia
+- inscripción en el libro de familia (opcional, pero recomendable)
 
-Pasará por
+Ahora viene la parte complicada... ir a casa y encontrarse 'solos ante el peligro'
