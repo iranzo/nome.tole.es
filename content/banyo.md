@@ -29,7 +29,7 @@ Se debe bañar de arriba hacia abajo, siendo los primeros baños siempre o bien 
 
 Hoy en día no se recomienda el uso de polvos de talco.
 
-Echa un vistazo a la información sobre el [Cordón umbilical](cordon.md)
+Echa un vistazo a la información sobre el [Cordón umbilical]({filename}cordon.md)
 
 ## Bañera
 

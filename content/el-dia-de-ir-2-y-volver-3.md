@@ -31,7 +31,7 @@ En este punto es importante fijarse si son de color claro u oscuro y recordar la
 <a id="markdown-el-hospital" name="el-hospital"></a>
 # El hospital
 
-Antes de nada, no te olvides de repasar la lista y coger las cosas necesarias de [la bolsa del hosptial](maleta.md) para tenerlas a mano.
+Antes de nada, no te olvides de repasar la lista y coger las cosas necesarias de [la bolsa del hosptial]({filename}maleta.md) para tenerlas a mano.
 
 La guía general para ir al hospital en base a las contracciones es **contracciones cada 5 minutos durante al menos 2 horas seguidas**, aunque, otros factores como rotura de aguas también requieran la visita.
 
@@ -49,7 +49,7 @@ El proceso de parto se compone de varios pasos que pueden o no presentarse y no 
 
 - desprendimiento del tapón mucoso[^taponmucoso]
 - romper aguas[^romperaguas]
-- contracciones[^contracciones] (puedes leer más en [contracciones](contracciones.md))
+- contracciones[^contracciones] (puedes leer más en [contracciones]({filename}contracciones.md))
 
 [^taponmucoso]: Masa gelatinosa que cierra el cuello del útero y lo separa de la vagina para proteger al bebé de infecciones exteriores.
 

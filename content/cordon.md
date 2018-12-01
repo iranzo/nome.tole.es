@@ -18,4 +18,4 @@ Otros (como fue nuestro caso), recomendaban realizar el lavado normal aseguránd
 
 Es importante controlar siempre el 'olor' del cordón, en caso de desprender mal olor, acudir al pediatra para que lo revise.
 
-Cuando el cordón esté seco, caerá y se deberá seguir controlando el secado de la zona, en especial durante [el baño](banyo.md).
+Cuando el cordón esté seco, caerá y se deberá seguir controlando el secado de la zona, en especial durante [el baño]({filename}banyo.md).

@@ -28,4 +28,4 @@ Para relajarse el procedimiento a seguir es:
 
 El objetivo de las contracciones es dilatar el útero para preparar la salida del bebé, aunque antes de la fecha del parto, es posible que notemos alguna porque el útero se va `preparando` para el gran día.
 
-Es importante recordar contar los intervalos, porque lo mismo te toca pasar a leer [El dia de ir 2 y volver 3](el-dia-de-ir-2-y-volver-3.md)
+Es importante recordar contar los intervalos, porque lo mismo te toca pasar a leer [El dia de ir 2 y volver 3]({filename}el-dia-de-ir-2-y-volver-3.md)
