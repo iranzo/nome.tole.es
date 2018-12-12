@@ -5,15 +5,15 @@ layout: post
 date: 2018-11-30 23:07:47 +0200
 comments: true
 tags: baño, cuidados
-description:
 category: bebe
-author:
 ---
+
 ## Baño
 
-El baño del bebé suele ser unos dias tras el parto, para darle tiempo a que absorva el `vermix` que es esa capa que protege al bebé y le ayuda a regular la temperatura.
+El baño del bebé suele ser unos dias tras el parto, para darle tiempo a que absorba el `vermix` que es esa capa que protege al bebé y le ayuda a regular la temperatura.
 
 El baño debe ser un momento de relax:
+
 - bajar la iluminación si es posible
 - agua a 37ºC para que el niño no pase calor ni frío
 - ambiente caldeado si es necesario (22ºC)
@@ -50,4 +50,5 @@ Una bañera pequeña se llena antes, gasta menos agua y resulta al final más c�
 El tema del cambiador que algunas incorporan, lo gastábamos al principio con la de patas, pero al final, era más cómodo llevarlo a su habitación para secarlo allí bien, poner pañal, etc.
 
 ## Frecuencia
+
 En nuestro caso, salvo contadas ocasiones y como poníamos al principio, el baño es un momento de relax y nos ayudó a crear una rutina, que son siempre necesarias para el bebé, así que, todos los días y como parte de la rutina de 'ir a dormir', a las 19:30 empezábamos el baño, luego cena (biberón, pecho, etc) y luego, a dormir!

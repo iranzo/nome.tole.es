@@ -25,7 +25,7 @@ En esas categorías, entran los casos típicos, que a falta de otra forma mejor 
 
 - Hambre
 - Sueño
-- Frio
+- Frío
 - Calor
 - Necesidad de contacto
 - Dolor

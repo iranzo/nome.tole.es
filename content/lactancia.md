@@ -13,12 +13,13 @@ author:
 **Índice**
 <!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
 
+- [author:](#author)
 - [Introducción](#introducci%C3%B3n)
 - [Buscar ayuda](#buscar-ayuda)
 - [A tener en cuenta](#a-tener-en-cuenta)
-    - [Frecuencia y duración](#frecuencia-y-duraci%C3%B3n)
-    - [Cantidad](#cantidad)
-    - [Otros](#otros)
+  - [Frecuencia y duración](#frecuencia-y-duraci%C3%B3n)
+  - [Cantidad](#cantidad)
+  - [Otros](#otros)
 - [Biberones](#biberones)
 
 <!-- /TOC -->
@@ -69,6 +70,7 @@ Al final, con mayor o menor perseverancia, la lactancia es una buena opción, un
 
 <a id="markdown-frecuencia-y-duración" name="frecuencia-y-duración"></a>
 ### Frecuencia y duración
+
 - El pecho a demanda al principio y el bebé lo regulará
     - Tocar con el pezón la nariz para que por un lado tenga el reflejo de abrir la boca y que por otro lo huela para hacer vínculo de apego
     - Según el niño, pueden empezar a lactar cada 1.5 horas y luego conforme se hacen más fuertes y succionan mejor, ir alargando el periodo entre tomas
@@ -76,6 +78,7 @@ Al final, con mayor o menor perseverancia, la lactancia es una buena opción, un
 
 <a id="markdown-cantidad" name="cantidad"></a>
 ### Cantidad
+
 - La consistencia de la leche varía en cada toma y en cada momento de crecimiento.
 - Cuando no se han cogido, dejar vaciar completamente un pecho para que tome de la parte más líquida y más sólida antes de pasar al otro.
     - Si no se acaba, continuar con el que no vació
@@ -83,6 +86,7 @@ Al final, con mayor o menor perseverancia, la lactancia es una buena opción, un
 
 <a id="markdown-otros" name="otros"></a>
 ### Otros
+
 - Sólo tomar vitaminas post parto que sean especiales para lactancia, ya que pueden excretarse por la leche y afectar al bebé.
 - Mantener la higiene de manos y considerar el uso de sujetador de lactancia y cojín de lactancia para facilitar las tomas.
 - El sabor de la leche *cambia* en función de lo que se come:
@@ -92,6 +96,7 @@ Al final, con mayor o menor perseverancia, la lactancia es una buena opción, un
 
 <a id="markdown-biberones" name="biberones"></a>
 ## Biberones
+
 Sea cual sea la causa del uso del biberón, ya sea decisión propia, por problemas con la lactancia , compaginar horarios, etc hay que tener en cuenta ciertas consideraciones:
 
 - La leche debe estar a 37º para dársela al bebé

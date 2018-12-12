@@ -22,6 +22,7 @@ author:
 
 <a id="markdown-romper-aguas" name="romper-aguas"></a>
 # Romper aguas
+
 Llevas días con la maleta preparada, coche con gasolina, plan de parto listo, etc, pero hoy, estando en la cama vinieron ganas de ir al baño a orinar.
 
 Al acabar, sigue cayendo líquido... has roto aguas!
@@ -69,6 +70,7 @@ Según el momento, te pondrán 'monitores' para revisar estado del bebé, ya sea
 
 <a id="markdown-el-parto" name="el-parto"></a>
 # El parto
+
 El proceso del parto se tratará en otro artículo :-) 'que da para rato'
 
 <a id="markdown-la-vuelta-a-casa" name="la-vuelta-a-casa"></a>
@@ -79,8 +81,9 @@ Todo ha ido bien, estáis en la habitación y tras el último control de pediatr
 Ten en cuenta que desde el momento del parto hasta el 'alta', el niño suele perder peso (unos 300gr) al deshincharse, pero por su salud, no se permite que pierdan más de un 10% durante la primera semana.
 
 El proceso de vuelta a casa, precedido o no por pasos como:
+
 - inscribir del acta de nacimiento del bebé (en el hospital)
 - obtención de la tarjeta sanitaria del bebé
 - inscripción en el libro de familia (opcional, pero recomendable)
 
-Ahora viene la parte complicada... ir a casa y encontrarse 'solos ante el peligro'
+Ahora viene la parte complicada... ir a casa y encontrarse 'solos ante el peligro'.
