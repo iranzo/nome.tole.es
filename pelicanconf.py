@@ -72,8 +72,8 @@ LOAD_CONTENT_CACHE = False
 PLUGIN_PATHS = ['plugins']
 
 PLUGINS = [
-    'better_codeblock_line_numbering',
-    'better_figures_and_images',
+    # 'better_codeblock_line_numbering',
+    #  'better_figures_and_images',
     'sitemap',
     # 'yuicompressor',
     'i18n_subsites',
