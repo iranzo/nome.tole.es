@@ -39,14 +39,14 @@ DEFAULT_CATEGORY = 'general'
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 FEED_ALL_RSS = 'feeds/all.rss'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
-CATEGORY_FEED_RSS = 'feeds/%s.rss'
-TRANSLATION_FEED_ATOM = 'feeds/%s.atom.xml'
-TRANSLATION_FEED_RSS = 'feeds/%s.rss'
-AUTHOR_FEED_ATOM = 'feeds/%s.atom.xml'
-AUTHOR_FEED_RSS = 'feeds/%s.rss'
-TAG_FEED_ATOM = 'feeds/tag_%s.atom.xml'
-TAG_FEED_RSS = 'feeds/tag_%s.rss'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+CATEGORY_FEED_RSS = 'feeds/{slug}.rss'
+TRANSLATION_FEED_ATOM = 'feeds/{lang}.atom.xml'
+TRANSLATION_FEED_RSS = 'feeds/{lang}.rss'
+AUTHOR_FEED_ATOM = 'feeds/{slug}.atom.xml'
+AUTHOR_FEED_RSS = 'feeds/{slug}.rss'
+TAG_FEED_ATOM = 'feeds/tag_{slug}.atom.xml'
+TAG_FEED_RSS = 'feeds/tag_{slug}.rss'
 
 DISPLAY_PAGES_ON_MENU = True
 
