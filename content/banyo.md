@@ -15,7 +15,7 @@ El baño del bebé suele ser unos dias tras el parto, para darle tiempo a que ab
 El baño debe ser un momento de relax:
 
 - bajar la iluminación si es posible
-- agua a 37ºC para que el niño no pase calor ni frío
+- [agua a 37ºC](https://amzn.to/2SMZfKG) para que el niño no pase calor ni frío
 - ambiente caldeado si es necesario (22ºC)
 - tener todo preparado de antemano (jabón, agua en la bañera, toallas, etc)
 
@@ -25,7 +25,7 @@ El nivel del agua debe cubrir los muslos hasta la cintura.
 
 El procedimiento para bañarlo consiste en coger con una mano, poniendo un dedo entre sus pies ambos a la vez, estando la otra mano cogiéndolo desde la axila más alejada, pasando por detrás de la cabeza con el brazo, para que así quede cogido correctamente.
 
-Se debe bañar de arriba hacia abajo, siendo los primeros baños siempre o bien con la mano o bien con una esponja natural.
+Se debe bañar de arriba hacia abajo, siendo los primeros baños siempre o bien con la mano o bien con una [esponja natural](https://amzn.to/2Lk8AqM).
 
 Hoy en día no se recomienda el uso de polvos de talco.
 
@@ -52,3 +52,7 @@ El tema del cambiador que algunas incorporan, lo gastábamos al principio con la
 ## Frecuencia
 
 En nuestro caso, salvo contadas ocasiones y como poníamos al principio, el baño es un momento de relax y nos ayudó a crear una rutina, que son siempre necesarias para el bebé, así que, todos los días y como parte de la rutina de 'ir a dormir', a las 19:30 empezábamos el baño, luego cena (biberón, pecho, etc) y luego, a dormir!
+
+Ten en cuenta:
+
+- La capa blanquecina en la cabeza es la costra láctica. Se limpia con una gasa humedecida en aceite de oliva y con un peine se va despegando poco a poco suavemente.
