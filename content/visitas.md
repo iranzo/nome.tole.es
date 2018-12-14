@@ -4,9 +4,9 @@ title: La cuarentena, las visitas y esos primeros dias
 layout: post
 date: 2018-12-13 21:35:47 +0200
 comments: true
-tags: 
+tags: bebe, parto, cuarentena, visitas, paseo, depresión postparto
 description:
-category: bebe, parto, cuarentena, visitas, paseo, depresión postparto
+category: parto
 author:
 draft: true
 ---
