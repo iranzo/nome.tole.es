@@ -2,12 +2,13 @@
 lang: es
 title: Bebés y Thermomix (u otros robots de cocina)
 layout: post
-date: 2019-01-05 22:43:47 +0100
+date: 2019-01-04 22:43:47 +0100
 comments: true
 tags: alimentacion, thermomix, tm31, tm5, mycook, robot de cocina
 description:
 category: bebe
 author:
+
 ---
 
 Unos años antes de incluso 'estar embarazados', tuvimos una demostración de funcionalidad de ['La Thermomix'](https://amzn.to/2BZ4r79) por parte de una amiga que había empezado a dedicarse al tema.
