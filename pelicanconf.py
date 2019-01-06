@@ -56,6 +56,7 @@ STATIC_PATHS = [
     'extra/favicon.ico',
     'extra/google3bc953001343abe6',
     'image',
+    'images'
 ]
 
 EXTRA_PATH_METADATA = {

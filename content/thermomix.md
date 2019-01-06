@@ -26,7 +26,7 @@ Cuando años más tarde vino el bebé y pasó a alimentación no limitada a la l
 
 y una vez preparadas, las guardábamos en [recipientes para congelar](https://amzn.to/2GVlxc3) donde etiquetadas por contenido y fecha podíamos ir alternando comidas fácilmente, cocinando de una 'vez', bastantes raciones.
 
-![](images/potitos.png)
+![]({filename}images/potitos.png)
 
 La principal ventaja fue que por un lado, podíamos seguir haciendo comida 'sana', mientras que ahorrábamos tiempo en prepararla y al empezar a organizarnos para cocinar en mayor cantidad y congelar, siempre teníamos un 'fondo de despensa', para que si por lo que fuera, había una de `esas noches` que al dia siguiente no te hacen ser persona, siempre tuvieras garantizada la comida, del bebé y de los padres.
 
