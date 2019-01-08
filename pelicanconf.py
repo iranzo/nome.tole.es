@@ -7,7 +7,7 @@ AUTHOR = u'No me tolees'
 SITENAME = u"No me tolees!!"
 SITESUBTITLE = u'Consejos para lidiar con niños (y no morir en el intento)'
 SITEURL = u'/'
-TWITTER_USERNAME = ""
+TWITTER_USERNAME = "nometolees"
 
 PATH = 'content'
 
@@ -137,7 +137,7 @@ DIRECT_TEMPLATES = ['index', 'tags', 'categories', 'archives']
 LINKS = (('Bebés en amazon', 'https://amzn.to/2DPMZEH'),)
 
 # SOCIAL = (('telegram', 'https://t.me/nometolees'),)
-SOCIAL = ()
+SOCIAL = (('twitter', 'https://twitter.com/nometolees'),)
 
 DEFAULT_PAGINATION = 5
 DEFAULT_ORPHANS = 0
