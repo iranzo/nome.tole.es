@@ -11,7 +11,7 @@ author:
 draft: true
 ---
 
-Tully (https://amzn.to/2TPcuL1) es una película interesante, si no la has visto, te animo a verla, no buscando una comedia pues en el fondo no lo es, sino porque retrata bastante bien lo duro que puede llegar a ser la crianza y el postparto.
+[Tully](https://amzn.to/2TPcuL1) es una película interesante, si no la has visto, te animo a verla, no buscando una comedia pues en el fondo no lo es, sino porque retrata bastante bien lo duro que puede llegar a ser la crianza y el postparto.
 
 La película cuenta la historia de Marlo, madre de tres hijos incluyendo un recién nacido.
 
