@@ -33,7 +33,7 @@ Echa un vistazo a la información sobre el [Cordón umbilical]({filename}cordon.
 
 ## Bañera
 
-Nosotros empezamos con una [bañera de patas con cambiador](https://amzn.to/2QwmoDq) que nos dejaron, pero lo cierto, es que no se si por algo 'normal' o pasar de repente a estar 'cargando' con 2.6 kg de peso, el tener que levantar los brazos para situar al bebé en lo alto del cambiador o de la bañera, nos daba luego dolor de espalda.
+Nosotros empezamos con una [bañera de patas con cambiador](https://amzn.to/2QwmoDq) que nos dejaron, pero lo cierto, es que no sé si por algo 'normal' o pasar de repente a estar 'cargando' con 2.6 kg de peso, el tener que levantar los brazos para situar al bebé en lo alto del cambiador o de la bañera, nos daba luego dolor de espalda.
 
 En ese momento, nos dieron la oportunidad de dejarnos una [bañera de bebé que se monta sobre la bañera](https://amzn.to/2QrEAyc) que disponía de unas [patas](https://amzn.to/2QsmgER) para montarla sobre nuestra bañera, quedando de este modo mucho más baja.
 
@@ -55,4 +55,4 @@ En nuestro caso, salvo contadas ocasiones y como poníamos al principio, el bañ
 
 Ten en cuenta:
 
-- La capa blanquecina en la cabeza es la costra láctica. Se limpia con una gasa humedecida en aceite de oliva y con un peine se va despegando poco a poco suavemente.
+- La capa blanquecina en la cabeza es la costra láctea. Se limpia con una gasa humedecida en aceite de oliva y con un peine se va despegando poco a poco suavemente.
