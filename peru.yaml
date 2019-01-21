@@ -1,45 +1,73 @@
 imports:
     # The dircolors file just goes at the root of our project.
-    sitemap: plugins/
-    better_codeblock_line_numbering: plugins/
-    better_figures_and_images: plugins/
-    yuicompressor: plugins/
-    i18n_subsites: plugins/
-    representative_image: plugins/
-    related_posts: plugins/
     nest: themes/nest/
+    plugins|sitemap: plugins/
+    plugins|yuicompressor: plugins/
+    plugins|better_figures_and_images: plugins/
+    plugins|better_codeblock_line_numbering: plugins/
+    plugins|extract_toc: plugins/
+    plugins|tipue_search: plugins/
+    plugins|liquid_tags: plugins/
+    plugins|neighbors: plugins/
+    plugins|render_math: plugins/
+    plugins|related_posts: plugins/
+    plugins|share_post: plugins/
+    plugins|series: plugins/
+    plugins|assets: plugins/
+    plugins|post_stats: plugins/
+    plugins|representative_image: plugins/
+    revealmd: plugins/revealmd/
 
-git module sitemap:
-    url: git@github.com:getpelican/pelican-plugins.git
+git module revealmd:
+    url: https://github.com/iranzo/pelican-revealmd/
+
+git module plugins:
+    url: https://github.com/getpelican/pelican-plugins.git
+
+rule sitemap:
     pick: sitemap
 
-git module yuicompressor:
-    url: git@github.com:getpelican/pelican-plugins.git
+rule yuicompressor:
     pick: yuicompressor
 
-git module better_figures_and_images:
-    url: git@github.com:getpelican/pelican-plugins.git
+rule better_figures_and_images:
     pick: better_figures_and_images
 
-git module better_codeblock_line_numbering:
-    url: git@github.com:getpelican/pelican-plugins.git
+rule better_codeblock_line_numbering:
     pick: better_codeblock_line_numbering
 
-git module i18n_subsites:
-    url: git@github.com:getpelican/pelican-plugins.git
-    pick: i18n_subsites
+rule extract_toc:
+    pick: extract_toc
 
-git module Just-Read:
-    url: https://github.com/getpelican/pelican-themes.git
-    pick: Just-Read
+rule tipue_search:
+    pick: tipue_search
 
-git module representative_image:
-    url: git@github.com:getpelican/pelican-plugins.git
-    pick: representative_image
+rule liquid_tags:
+    pick: liquid_tags
 
-git module related_posts:
-    url: git@github.com:getpelican/pelican-plugins.git
+rule neighbors:
+    pick: neighbors
+
+rule render_math:
+    pick: render_math
+
+rule related_posts:
     pick: related_posts
+
+rule share_post:
+    pick: share_post
+
+rule series:
+    pick: series
+
+rule assets:
+    pick: assets
+
+rule post_stats:
+    pick: post_stats
+
+rule representative_image:
+    pick: representative_image
 
 git module nest:
     url: git@github.com:molivier/nest.git

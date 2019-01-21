@@ -14,10 +14,10 @@ PATH = 'content'
 TIMEZONE = 'Europe/Madrid'
 
 # Put as draft content in the future
-WITH_FUTURE_DATES = True
+WITH_FUTURE_DATES = False
 
 # Put full text in RSS feed
-RSS_FEED_SUMMARY_ONLY = False
+RSS_FEED_SUMMARY_ONLY = True
 
 # Default theme language.
 I18N_TEMPLATES_LANG = 'es'
@@ -65,6 +65,10 @@ EXTRA_PATH_METADATA = {
     'extra/google3bc953001343abe6' : {'path': 'google3bc953001343abe6.html'},
 }
 
+EXTRA_TEMPLATES_PATHS = [
+    "plugins/revealmd/templates",  # eg: "plugins/revealmd/templates"
+]
+
 CACHE_CONTENT = False
 CACHE_PATH = '.cache'
 LOAD_CONTENT_CACHE = False
@@ -72,15 +76,8 @@ LOAD_CONTENT_CACHE = False
 # Plugins
 PLUGIN_PATHS = ['plugins']
 
-PLUGINS = [
-    # 'better_codeblock_line_numbering',
-    #  'better_figures_and_images',
-    'sitemap',
-    # 'yuicompressor',
-    'i18n_subsites',
-    "representative_image",
-    "related_posts",
-]
+PLUGINS = ['assets', 'extract_toc', 'i18n_subsites', 'liquid_tags.img', 'neighbors', 'post_stats', 'related_posts',
+           'render_math', 'representative_image', 'revealmd', 'series', 'share_post', 'sitemap', 'tipue_search']
 
 # Enable i18n plugin, probably you already have some others here.
 # PLUGINS = ['i18n_subsites']
@@ -154,10 +151,16 @@ RELATIVE_URLS = True
 # better codeblock
 MARKDOWN = {
     'extension_configs': {
-        'markdown.extensions.codehilite': {'css_class': 'highlight', 'linenums': False},
+        'markdown.extensions.codehilite': {
+            'css_class': 'highlight',
+            'linenums': True
+        },
         'markdown.extensions.extra': {},
+        'markdown.extensions.toc': {
+            'permalink': 'true'
+        },
         'markdown.extensions.meta': {},
-        'markdown.extensions.toc': {'permalink': 'true'},
+        'markdown.extensions.admonition': {},
     },
     'output_format': 'html5',
 }
@@ -276,4 +279,4 @@ NEST_TAGS_HEAD_DESCRIPTION = u'Listado de etiquetas'
 NEST_TAGS_HEADER_TITLE = u'Etiquetas'
 NEST_TAGS_HEADER_SUBTITLE = u'Listado de etiquetas'
 NEST_TAGS_CONTENT_TITLE = u'Listado de etiquetas'
-NEST_TAGS_CONTENT_LIST = u'etiquetado'
+NEST_TAGS_CONTENT_LIST = u'etiquetados'
