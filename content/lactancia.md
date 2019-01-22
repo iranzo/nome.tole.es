@@ -7,13 +7,11 @@ comments: true
 tags: crianza, lactancia, doula, biberon
 description:
 category: bebe
-author:
 ---
 
 **Índice**
-<!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
+<!-- TOC depthFrom:1 insertAnchor:false orderedList:true -->
 
-- [author:](#author)
 - [Introducción](#introducci%C3%B3n)
 - [Buscar ayuda](#buscar-ayuda)
 - [A tener en cuenta](#a-tener-en-cuenta)
@@ -24,7 +22,6 @@ author:
 
 <!-- /TOC -->
 
-<a id="markdown-introducción" name="introducción"></a>
 ## Introducción
 
 La lactancia, que debería ser fácil por ser lo 'natural', no siempre es la opción más fácil, ya que influyen diversos factores.
@@ -48,7 +45,6 @@ También, influye el niño, algunos nacen más `fuertes` y otros algo más `déb
 
 Aunque es tan respetable dar el pecho como usar leche de fórmula, se ve una tendencia a criminalizar a quien da el biberón sin saber el porqué de dicha opción, si bien determinada por decisión, o bien determinada por las circunstancias.
 
-<a id="markdown-buscar-ayuda" name="buscar-ayuda"></a>
 ## Buscar ayuda
 
 La experiencia de cada madre con la lactancia es algo muy personal, que puede variar desde 'un momento íntimo' con su bebé a un verdadero trauma de insomnio, pechos agrietados y mastitis.
@@ -65,10 +61,8 @@ Esta persona de apoyo nos informará de formas convenientes de dar el pecho, rev
 
 Al final, con mayor o menor perseverancia, la lactancia es una buena opción, una forma de estar con nuestro bebé y disfrutar de ese momento.
 
-<a id="markdown-a-tener-en-cuenta" name="a-tener-en-cuenta"></a>
 ## A tener en cuenta
 
-<a id="markdown-frecuencia-y-duración" name="frecuencia-y-duración"></a>
 ### Frecuencia y duración
 
 - El pecho a demanda al principio y el bebé lo regulará
@@ -76,7 +70,6 @@ Al final, con mayor o menor perseverancia, la lactancia es una buena opción, un
     - Según el niño, pueden empezar a lactar cada 1.5 horas y luego conforme se hacen más fuertes y succionan mejor, ir alargando el periodo entre tomas
 - Inicialmente suelen ser unos 20 min/pecho y puede bajar a 10 cuando tienen práctica.
 
-<a id="markdown-cantidad" name="cantidad"></a>
 ### Cantidad
 
 - La consistencia de la leche varía en cada toma y en cada momento de crecimiento.
@@ -84,7 +77,6 @@ Al final, con mayor o menor perseverancia, la lactancia es una buena opción, un
     - Si no se acaba, continuar con el que no vació
 - Aproximadamente se deshinchará a la mitad de volumen al vaciarlo
 
-<a id="markdown-otros" name="otros"></a>
 ### Otros
 
 - Sólo tomar vitaminas post parto que sean especiales para lactancia, ya que pueden excretarse por la leche y afectar al bebé.
@@ -94,7 +86,6 @@ Al final, con mayor o menor perseverancia, la lactancia es una buena opción, un
     - Alcachofas y comino inhiben lactancia y los espárragos cambian el sabor.
     - En Sudamérica toman la panela que parece ser que ayuda por el sabor de la leche más dulce
 
-<a id="markdown-biberones" name="biberones"></a>
 ## Biberones
 
 Sea cual sea la causa del uso del biberón, ya sea decisión propia, por problemas con la lactancia , compaginar horarios, etc hay que tener en cuenta ciertas consideraciones:
