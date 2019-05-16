@@ -1,6 +1,6 @@
 imports:
     # The dircolors file just goes at the root of our project.
-    nest: themes/nest/
+    # nest: themes/nest/
     plugins|sitemap: plugins/
     plugins|yuicompressor: plugins/
     plugins|better_figures_and_images: plugins/
