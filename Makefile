@@ -12,10 +12,10 @@ FTP_HOST=localhost
 FTP_USER=anonymous
 FTP_TARGET_DIR=/
 
-SSH_HOST=nome.tole.es
+SSH_HOST=localhost
 SSH_PORT=22
-SSH_USER=tolees
-SSH_TARGET_DIR=/nome.tole.es/
+SSH_USER=root
+SSH_TARGET_DIR=/var/www
 
 S3_BUCKET=my_s3_bucket
 
@@ -119,6 +119,6 @@ cf_upload: publish
 
 github: publish
 	ghp-import -m "Generate Pelican site" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
-	git push origin $(GITHUB_PAGES_BRANCH)
+	git push --force origin $(GITHUB_PAGES_BRANCH)
 
 .PHONY: html help clean regenerate serve serve-global devserver publish ssh_upload rsync_upload dropbox_upload ftp_upload s3_upload cf_upload github
