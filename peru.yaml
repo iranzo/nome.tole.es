@@ -70,4 +70,4 @@ rule representative_image:
     pick: representative_image
 
 git module nest:
-    url: git@github.com:molivier/nest.git
+    url: https://github.com/molivier/nest.git
