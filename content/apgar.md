@@ -37,3 +37,6 @@ De 7 a 10 puntos, el estado del bebé se considera bueno, entre 4 y 6, require v
 Generalmente la segunda puntuación suele ser más alta, pero también hay niños que obtienen la máxima en ambas. Este diagnóstico es importante y permite detectar problemas.
 
 
+Puedes encontrar más información en libros como [Qué esperar cuando estás
+esperando](https://www.amazon.es/dp/8408122975?tag=redken-21&smid=A1PT7S6F0FISH).
+
