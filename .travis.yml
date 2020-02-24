@@ -23,6 +23,7 @@ script:
 after_success:
 - cp README.md output/
 - mv *.png output/
+- touch output/.nojekyll
 - sed -i "s#https://github.com#https://${GHTOKEN}@github.com#g" .git/config
 - sed -i "s#git@github.com:#https://${GHTOKEN}@github.com/#g" .git/config
 - make github
