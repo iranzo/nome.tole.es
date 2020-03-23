@@ -1,11 +1,7 @@
 # Copyright (C) 2017, 2018 Pablo Iranzo Gómez <Pablo.Iranzo@gmail.com>
 
 language: python
-dist: trusty
 sudo: required
-
-python:
-- '3.5'
 
 before_install:
 - sudo apt-get -y install pandoc
@@ -14,6 +10,7 @@ before_install:
 - pip install -U pip
 - pip install -U setuptools
 - pip install -r requirements.txt
+- find ${HOME} -name git_plugin.py -exec chmod -v +x {} \;
 - peru sync
 
 script:
