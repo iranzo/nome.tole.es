@@ -11,6 +11,7 @@ author:
 ---
 
 **Índice**
+
 <!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
 
 - [Romper aguas](#romper-aguas)
@@ -21,6 +22,7 @@ author:
 <!-- /TOC -->
 
 <a id="markdown-romper-aguas" name="romper-aguas"></a>
+
 # Romper aguas
 
 Llevas días con la maleta preparada, coche con gasolina, plan de parto listo, etc, pero hoy, estando en la cama vinieron ganas de ir al baño a orinar.
@@ -30,6 +32,7 @@ Al acabar, sigue cayendo líquido... has roto aguas!
 En este punto es importante fijarse si son de color claro u oscuro y recordar la hora. Si son de color oscuro no te demores y directos al hospital para que el bebé no corra peligro.
 
 <a id="markdown-el-hospital" name="el-hospital"></a>
+
 # El hospital
 
 Antes de nada, no te olvides de repasar la lista y coger las cosas necesarias de [la bolsa del hosptial]({filename}maleta.md) para tenerlas a mano.
@@ -53,9 +56,7 @@ El proceso de parto se compone de varios pasos que pueden o no presentarse y no 
 - contracciones[^contracciones] (puedes leer más en [contracciones]({filename}contracciones.md))
 
 [^taponmucoso]: Masa gelatinosa que cierra el cuello del útero y lo separa de la vagina para proteger al bebé de infecciones exteriores.
-
 [^romperaguas]: Momento en que se perfora la bolsa con el líquido amniótico en la que 'flota' el bebé durante la gestación.
-
 [^contracciones]: Movimientos musculares que ayudan a dilatar el cuello del útero en preparación para que el bebé pueda salir.
 
 De estos pasos cabe tener en cuenta varias cosas:
@@ -69,11 +70,13 @@ De estos pasos cabe tener en cuenta varias cosas:
 Según el momento, te pondrán 'monitores' para revisar estado del bebé, ya sean externos o internos. La prioridad es siempre la salud del bebé y es la que determinará otras medidas en caso de que las contracciones no aumenten en frecuencia e intensidad (para dilatar), etc.
 
 <a id="markdown-el-parto" name="el-parto"></a>
+
 # El parto
 
 El proceso del parto se tratará en otro artículo :-) 'que da para rato'
 
 <a id="markdown-la-vuelta-a-casa" name="la-vuelta-a-casa"></a>
+
 # La vuelta a casa
 
 Todo ha ido bien, estáis en la habitación y tras el último control de pediatra y médicos se te va a dar el alta.

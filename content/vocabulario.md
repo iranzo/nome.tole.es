@@ -11,12 +11,13 @@ author:
 ---
 
 # Vocabulario
+
 Aquí iremos actualizando un pequeño diccionario de palabras relacionadas con los bebés, el embarazo, la crianza, etc para que te sea útil.
 
 Visítalo de vez en cuando para ver las novedades!
 
 | Palabra                                              | Definición                                                                                                                                                   |
-|------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | calostro                                             | Secreción amarillenta formada principalmente por inmunoglobulina que sale del pecho en los dias alrededor del parto y proporciona `defensas` al bebé         |
 | cólicos                                              | Dolor del bebé, expresado en forma de llantos, que duran al menos 3 horas al día durante al menos 3 días por semana durante más de una semana                |
 | contracciones [más info]({filename}contracciones.md) | Las contracciones son movimientos del útero (recordemos que es un músculo) que duran entre 30 y 60 segundos y son intermitentes                              |

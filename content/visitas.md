@@ -12,6 +12,7 @@ draft: true
 ---
 
 **Índice**
+
 <!-- TOC depthFrom:1 insertAnchor:false orderedList:true -->
 
 - [Introducción](#introducci%C3%B3n)

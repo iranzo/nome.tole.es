@@ -12,8 +12,8 @@ draft: true
 ---
 
 **Índice**
-<!-- TOC depthFrom:1 insertAnchor:false orderedList:true -->
 
+<!-- TOC depthFrom:1 insertAnchor:false orderedList:true -->
 
 <!-- /TOC -->
 
@@ -21,4 +21,3 @@ Lucia mi pediatra
 Julio Basulto
 Armando enfermero de pediatria
 El cerebro del niño
-

@@ -11,6 +11,7 @@ author:
 ---
 
 **Índice**
+
 <!-- TOC depthFrom:1 insertAnchor:true orderedList:true -->
 
 - [Preparativos para el hospital](#preparativos-para-el-hospital)
@@ -22,6 +23,7 @@ author:
 <!-- /TOC -->
 
 <a id="markdown-preparativos-para-el-hospital" name="preparativos-para-el-hospital"></a>
+
 # Preparativos para el hospital
 
 Uno de los pasos importantes previos a la fecha estimada del parto (conviene tenerlo todo listo antes por si se adelantara la fecha) es preparar la bolsa, tanto de la madre como del bebé.
@@ -29,6 +31,7 @@ Uno de los pasos importantes previos a la fecha estimada del parto (conviene ten
 Según el parto sea en hospital público o privado, la matrona te habrá dado indicaciones acerca de qué elementos llevar y cuáles te dejarán ellos durante tu estancia.
 
 <a id="markdown-la-bolsa-de-la-madre" name="la-bolsa-de-la-madre"></a>
+
 ## La bolsa de la madre
 
 - Documentación del embarazo (cartilla)
@@ -38,13 +41,14 @@ Según el parto sea en hospital público o privado, la matrona te habrá dado in
 - Bata
 - Toalla
 - Pantalón llevado al principio del embarazo: Al dar a luz, tu barriga bajará, pero aún tardará en volver a su tamaño original, así que uno de los primeros pantalones te vendrá bien.
-- [Compresas gigantes postparto](https://amzn.to/2AF5Sao): Las tendrás que ir cambiando cada cierto tiempo porque recogen 
+- [Compresas gigantes postparto](https://amzn.to/2AF5Sao): Las tendrás que ir cambiando cada cierto tiempo porque recogen
 - [Discos absorbentes](https://amzn.to/2KKwTh3): Los pechos irán secretando calostro hasta la subida de la leche, te vendrán bien para no manchar los sujetadores y/o la ropa
 - [Sujetador lactancia](https://amzn.to/2DT8jt6): especiales con una zona de 'clip' para poder abrir el acceso del bebé al pecho
 - Camisón lactancia con manga corta (para facilitar el trabajo de las enfermeras como medir tu temperatura, tener posibles vías con gotero, etc)
 - [Pezoneras](https://amzn.to/2zCVakO): Pueden ser necesarias en algunos casos
 
 <a id="markdown-la-bolsa-del-bebé" name="la-bolsa-del-bebé"></a>
+
 ## La bolsa del bebé
 
 - Body
@@ -59,13 +63,15 @@ Según el parto sea en hospital público o privado, la matrona te habrá dado in
 - Chupete Látex sólo si ha aprendido a coger pecho
 
 <a id="markdown-llevar" name="llevar"></a>
+
 # Llevar
 
-Deberás llevar junto a las 'bolsas' de madre e hijo, la **cartilla del  embarazo** y según el tipo de hospital, alguna botellita de agua.
+Deberás llevar junto a las 'bolsas' de madre e hijo, la **cartilla del embarazo** y según el tipo de hospital, alguna botellita de agua.
 
 Recuerda, que el día de salida, además de la ropa de calle, 'primera puesta', etc, tendrás que tener ya listo el carro y la silla para el coche.
 
 <a id="markdown-curiosidades" name="curiosidades"></a>
+
 # Curiosidades
 
 Al nosotros dar a luz en un hospital público, durante la estancia nos proporcionaron las toallas, compresas gigantes, pañales, etc.

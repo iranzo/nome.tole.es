@@ -9,10 +9,8 @@ description:
 category:
 author:
 draft: true
+---**Índice**
 
----
-
-**Índice**
 <!-- TOC depthFrom:1 insertAnchor:false orderedList:true -->
 
 - [Miscelánea](#miscel%C3%A1nea)

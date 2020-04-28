@@ -8,8 +8,8 @@ tags: alimentacion, thermomix, tm31, tm5, mycook, robot de cocina
 description:
 category: bebe
 author:
-
 ---
+
 
 Unos años antes de incluso 'estar embarazados', tuvimos una demostración de funcionalidad de ['La Thermomix'](https://amzn.to/2BZ4r79) por parte de una amiga que había empezado a dedicarse al tema.
 

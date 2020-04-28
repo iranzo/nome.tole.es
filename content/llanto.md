@@ -14,7 +14,7 @@ author:
 
 Una de las reacciones más habitual del recién nacido es llorar.
 
-Aunque resulte molesto (que están diseñados así, para  conseguir llamar la atención y por otro lado, nosotros estamos también hechos para no poder permanecer impasibles ante los mismos), es la forma en la que los bebés tienen para comunicarse.
+Aunque resulte molesto (que están diseñados así, para conseguir llamar la atención y por otro lado, nosotros estamos también hechos para no poder permanecer impasibles ante los mismos), es la forma en la que los bebés tienen para comunicarse.
 
 Los llantos pueden ser por dos motivos:
 

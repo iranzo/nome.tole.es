@@ -8,18 +8,20 @@ tags: rabietas, crianza
 description:
 category: niño
 author:
-
 ---
 
+
 **Índice**
+
 <!-- TOC depthFrom:1 insertAnchor:true orderedList:false -->
 
-- [¿Qué son?](#%C2%BFqu%C3%A9-son)
-- [¿Cómo las evitamos?](#%C2%BFc%C3%B3mo-las-evitamos)
-- [¿Y cuando han llegado?](#%C2%BFy-cuando-han-llegado)
-- [La tormenta ha pasado... ¿y ahora?](#la-tormenta-ha-pasado-%C2%BFy-ahora)
+- [¿Qué son?](#%c2%bfqu%c3%a9-son)
+- [¿Cómo las evitamos?](#%c2%bfc%c3%b3mo-las-evitamos)
+- [¿Y cuando han llegado?](#%c2%bfy-cuando-han-llegado)
+- [La tormenta ha pasado... ¿y ahora?](#la-tormenta-ha-pasado-%c2%bfy-ahora)
 
 <!-- /TOC -->
+
 
 <a id="markdown-¿qué-son" name="¿qué-son"></a>
 ## ¿Qué son?
@@ -29,6 +31,7 @@ Las rabietas son por todos conocidas... la típica imagen es un niño en el suel
 Las rabietas son parte normal del desarrollo del niño, si no estuvieran es que algo no 'marcha adecuadamente', el niño, comienza el proceso de reafirmarse y con el, llegan las terribles rabietas.
 
 Según el desarrollo del niño comienzan a aparecer alrededor de los dos años y tienen su punto álgido alrededor de `"los terribles tres"`.
+
 
 <a id="markdown-¿cómo-las-evitamos" name="¿cómo-las-evitamos"></a>
 ## ¿Cómo las evitamos?
@@ -53,6 +56,7 @@ Si la rabieta ya ha comenzado, sólo queda esperar a que pase de la mejor forma 
 Aunque suena fácil, es duro, muy duro y por desgracia es una época dura, que oscila de momentos 'buenos' con momentos 'duros'.
 
 Con perseverancia y mucha paciencia durante las rabietas podemos llegar al momento 'post'
+
 
 <a id="markdown-la-tormenta-ha-pasado-¿y-ahora" name="la-tormenta-ha-pasado-¿y-ahora"></a>
 ## La tormenta ha pasado... ¿y ahora?
