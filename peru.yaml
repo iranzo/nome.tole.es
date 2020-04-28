@@ -18,6 +18,9 @@ imports:
     plugins|representative_image: plugins/
     revealmd: plugins/revealmd/
 
+
+
+
 git module revealmd:
     url: https://github.com/iranzo/pelican-revealmd/
 
