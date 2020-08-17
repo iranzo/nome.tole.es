@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*- #
+# -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
 import datetime
@@ -105,7 +105,7 @@ JINJA_ENVIRONMENT = {
 FAVICON = "extra/favicon.ico"
 THEME = "themes/nest"
 
-FILENAME_METADATA = "(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)"
+FILENAME_METADATA = r"(?P<date>\d{4}-\d{2}-\d{2})-(?P<slug>.*)"
 USE_FOLDER_AS_CATEGORY = False
 
 SEARCH_BOX = False
